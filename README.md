@@ -1,2 +1,2 @@
-http://BrendaMoura-lista2-web.github.io
+http://BrendaMoura-lista2-web
 Lista 2 de web
