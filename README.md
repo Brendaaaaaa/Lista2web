@@ -1,2 +1,2 @@
-# http://Brendaaaaaa.github.io-lista2web
+# https://brendaaaaaa.github.io/Lista2web/
 Lista 2 de web
